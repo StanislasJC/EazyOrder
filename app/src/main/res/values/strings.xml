@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">EazyOrder</string>
+
+    <!-- Formulaire Création Commande -->
+    <string name="title_creation_command">Création Commande</string>
+    <string name="reference_field">Référence</string>
+    <string name="date_field">Date</string>
+    <string name="signature_field">Signature</string>
+    <string name="description_field">Description</string>
+    <string name="confirm_button">Confirmer</string>
+
+    <!-- Acceuil/Liste des commandes -->
+    <string name="title_list_command">Liste des commandes</string>
+    <string name="add_command_button">+</string>
+
+    <!-- Modification d'une commande -->
+    <string name="title_modif_command">Modification Commande</string>
+    <string name="modification_button">Modifier</string>
+    <string name="delete_button">Supprimer</string>
+    <string name="add_product_button">Ajouter un Produit</string>
+    <string name="title_list_product">Liste des produits de la commande </string>
+
+    <!-- Formulaire Création produit -->
+    <string name="title_cration_product">Création Produit</string>
+    <string name="nom_field">Nom</string>
+    <string name="prix_field">Prix(€)</string>
+
+    <!-- ListView Commandes -->
+    <string name="refStringLL">Réf : </string>
+
+    <!-- ListView Produit -->
+    <string name="nomStringLL">Nom du produit : </string>
+    <string name="euroSymbol"> € </string>
+
+    <!-- Dialog -->
+    <string name="dialog_text_info">Etes-vous sûr(e) de vouloir supprimer ce produit ?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+
+
+</resources>
